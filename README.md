@@ -11,8 +11,9 @@ make
 
 # RG351P SDL2 KEY MAPPER TABLE
 
+
 | BUTTON| EVENT | SDL_KEY |KEY VALUE |
-| :-----| ----: | :----: |
+| :-----:  | :-----:  | :-----:  | :-----: |
 | UP | HAT0 | SDL_HAT_UP | 0x01  | 
 | DOWN | HAT0 | SDL_HAT_DOWN | 0x04 | 
 | LEFT | HAT0 | SDL_HAT_LEFT | 0x08 | 
@@ -37,4 +38,3 @@ make
 | RIGHTSTICK-DOWN | AXIS3 |  | -32768 | 
 | RIGHTSTICK-LEFT | AXIS2 |  | 32768 | 
 | RIGHTSTICK-RIGHT | AXIS2 |  | -32768 | 
-
