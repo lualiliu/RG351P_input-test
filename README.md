@@ -4,7 +4,7 @@ Anbernic RG351P Input Tester
 
 This repo is based on tonyjih's repo (https://github.com/tonyjih/RG350_input-test) and GCW Zero input tester.
 
-Here, thanks Tonyjih and Nebuleon Fumika
+Here, thanks Tonyjih and Nebuleon Fumika.
 
 The project only supports SDL2 now.
 
