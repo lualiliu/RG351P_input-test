@@ -1,0 +1,12 @@
+[Desktop Entry]
+
+Name=Input tester
+Comment=Input tester (using SDL 1.2)
+Exec=input-test-sdl-1.2
+X-OD-NeedsJoystick=true
+X-OD-NeedsGSensor=true
+Terminal=false
+Type=Application
+Icon=input-test-sdl1
+StartupNotify=true
+Categories=applications;
